@@ -1,0 +1,30 @@
+.image {
+  height: 140px;
+  width: 260px;
+}
+.text-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.icon-cont {
+  display: flex;
+  align-items: center;
+}
+.project-title {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.duration {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #1e293b;
+  margin-left: 3px;
+}
+.desc {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
